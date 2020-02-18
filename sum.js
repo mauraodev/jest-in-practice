@@ -1,5 +1,5 @@
 'use strict'
 
-export default () => {
+export default (param1, param2) => {
     return 3
 }
